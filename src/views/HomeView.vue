@@ -99,12 +99,13 @@
             <h1>SOLUTIONS LAB</h1>
             <img alt="" src="../assets/Icons/double-round.svg">
             <!--            icons-start-->
+
             <div class="flex md:hidden lg:hidden ml-4">
               <div class="rounded-full mr-2 flex justify-center items-center bg-white h-8 w-8">
-                <img alt="" src="../assets/Icons/f.svg">
+                <img alt="" src="../assets/Icons/twitter-svg.svg">
               </div>
-              <div class="rounded-full mr-2 flex justify-center items-center bg-white h-8 w-8">
-                <img alt="" src="../assets/Icons/f.svg">
+              <div class="rounded-full mr-2 flex justify-center items-center bg-black h-8 w-8">
+                <img alt="" src="../assets/Icons/insta.svg">
               </div>
               <div class="rounded-full flex justify-center items-center bg-white h-8 w-8">
                 <img alt="" src="../assets/Icons/f.svg">
@@ -116,6 +117,7 @@
           <p class="flex">Open an account in minutes, <br> get full Control for much <br> longer.</p>
           <div class="flex hidden md:flex lg:flex">
             <!--            facebook-icon-start-->
+
             <svg fill="none" height="110" viewBox="0 0 110 110" width="110" xmlns="http://www.w3.org/2000/svg">
               <g filter="url(#filter0_d_10338_1509)">
                 <path
