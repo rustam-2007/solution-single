@@ -97,7 +97,7 @@
         <div class="mt-6 md:mt-0 lg:mt-0 flex flex-col">
           <div class="flex justify-start font-bold items-center">
             <h1>SOLUTIONS LAB</h1>
-            <img alt="" src=".../assets/Icons/double-round.svg">
+            <img alt="" src="../assets/Icons/double-round.svg">
             <!--            icons-start-->
             <div class="flex md:hidden lg:hidden ml-4">
               <div class="rounded-full mr-2 flex justify-center items-center bg-white h-8 w-8">
